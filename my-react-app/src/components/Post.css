@@ -1,0 +1,6 @@
+.post{
+    display: flex;
+    background-color: grey;
+    width: 30%;
+    height: 350px;
+}
